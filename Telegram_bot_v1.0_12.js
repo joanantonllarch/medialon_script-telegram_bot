@@ -203,7 +203,7 @@
         QMedialon.SetInterval(this._loop_for_ever, 1000 );
     },
     //*************************************************************************
-    //  LOOP FOR EVER - every 500ms
+    //  LOOP FOR EVER - every 1000ms
     _loop_for_ever: function(){
         if ( this.answerTimeOutFlag == 0 )
         {   // set flag timeout
