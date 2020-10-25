@@ -4,7 +4,7 @@ Telegram is a cloud-based mobile and desktop messaging app also with bot capabil
 ##### <br/>
 ##### Telegram Android App screenshots:
 
-Screenshot_1                                    |  Screenshot_2                                    |  Screenshot_3
+1                                    |  2                                    |  3
 :----------------------------------------------:|:------------------------------------------------:|:-------------------------:
 ![Image of app1](screenshots/Screenshot_1.png)  |  ![Image of app1](screenshots/Screenshot_1.png)  |  ![Image of app3](screenshots/Screenshot_3.png)
 
